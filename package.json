@@ -1,0 +1,20 @@
+{
+    "name": "commanderwo.com",
+    "version": "1.0.0",
+    "description": "JavaScript development environment Pluralsight course by Cory House",
+    "scripts": {
+    },
+    "author": "Donovan Jones",
+    "license": "MIT",
+    "dependencies": {
+    },
+    "devDependencies": {
+      "babel-cli":"^6.26.0",
+      "babel-core": "^6.26.0",
+      "babel":"~6.23.0",
+      "react":"~16.2.0",
+      "express":"~4.16.2",
+      "webpack":"~3.10.0",
+      "open":"~0.0.5"
+    }
+  }
